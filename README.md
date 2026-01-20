@@ -13,7 +13,7 @@ After loading the dataset, it was preprocessed by dividing the target variable a
 3.Results
 The results are shown in a comparison table with columns for sampling techniques and rows for machine learning models. Each value in the table represents the accuracy attained by a specific model–sampling combination. In addition to the table, bar graphs, line graphs, and heatmaps were made to visually compare model performance and identify the top-performing combinations.
 
-<img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/ea66726a-49d8-4386-b380-3ea4be2b781d" />Sampling Techniques on imbalanced credit card dataset:
+<img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/ea66726a-49d8-4386-b380-3ea4be2b781d" />:
 
 
 4.Discussion
