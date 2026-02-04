@@ -11,7 +11,10 @@ Table
 
 
 Result Graph
+
 <img width="584" height="455" alt="image" src="https://github.com/user-attachments/assets/336914a1-e88d-47b7-85b4-42537d8d6df9" />
 
+<img width="584" height="455" alt="image" src="https://github.com/user-attachments/assets/d2420253-6f08-4c9e-ae49-e55e21f06b18" />
 
+<img width="584" height="432" alt="image" src="https://github.com/user-attachments/assets/ec6cf989-be90-4756-954b-79a71167cf01" />
 
