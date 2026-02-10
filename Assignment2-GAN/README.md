@@ -18,7 +18,7 @@ The dataset used in this assignment is publicly available at:
 https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data
 
 <p align="center">
-  <img src="blob:null/b84d0292-f6ad-4a86-b833-ea0dff315ff7" width="80%">
+  <img src="myimage.png" width="80%">
 </p>
 
 - Dataset: India Air Quality Dataset (Kaggle)
