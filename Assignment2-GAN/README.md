@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data
   \[
   z = x + a_r \sin(b_r x)
   \]
-- Roll Number: **102303935**
+- Roll Number: **102317270**
 - Transformation Parameters:
   - \( a_r = 1.5 \)
   - \( b_r = 0.3 \)
