@@ -31,7 +31,16 @@ The implementation follows the standard TOPSIS procedure:
 
 ---
 
+## Dataset
+   data.xlsx
+
+
+## Result
+   result.csv
+
 ## Installation (from PyPI)
 
 ```bash
 pip install Topsis-Manavjot-102317270
+
+
