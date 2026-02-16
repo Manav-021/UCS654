@@ -32,11 +32,7 @@ The implementation follows the standard TOPSIS procedure:
 ---
 
 ## Dataset
-   data.xlsx
-
-
-## Result
-   result.csv
+   [data.xlsx](https://github.com/psrana/Assignment-Topsis/blob/main/README.md)
 
 ## Installation (from PyPI)
 
