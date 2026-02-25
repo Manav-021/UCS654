@@ -36,7 +36,7 @@ The application is designed using a modular architecture, ensuring improved main
   <img src="images/youtube_email.png" width="60%">
 </p>
 
-# Project Structure
+## Project Structure
 
 youtube_mashup_pipeline/
 │
