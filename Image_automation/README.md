@@ -11,9 +11,9 @@ Image Automation System is a web-based image processing application that execute
 
 Users can:
 
--Provide a search keyword
--Select the number of images to retrieve
--Enter an email address to receive the output
++Provide a search keyword
++Select the number of images to retrieve
++Enter an email address to receive the output
 
 Once submitted, the application performs the complete workflow automatically in the background without blocking the main server thread.
 
