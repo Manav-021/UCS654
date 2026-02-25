@@ -32,7 +32,9 @@ The application is designed using a modular architecture, ensuring improved main
 
 
 # Output 
-images/youtube_email.png
+<p align="center">
+  <img src="images/youtube_email.png" width="60%">
+</p>
 
 # Project Structure
 
