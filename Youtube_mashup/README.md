@@ -1,7 +1,8 @@
 YouTube Mashup Automation Pipeline
 
-An automated media processing application developed using Python and Streamlit that creates custom audio mashups from YouTube search results.
-The system enables users to enter a topic, automatically retrieves relevant videos, extracts selected audio segments, merges them into a single mashup track, and produces a compressed output file — all through an intuitive and user-friendly web interface.
+An automated media processing application developed using Python and Streamlit that generates custom audio mashups from YouTube search results.
+
+The system allows users to enter a topic, automatically retrieves relevant videos, extracts selected audio segments, merges them into a single mashup track, and produces a compressed output file — all through a simple and user-friendly web interface.
 
 Overview
 
