@@ -68,7 +68,7 @@ youtube_mashup_pipeline/
 │
 └── images/
     └── youtube_email.png
-
+```
 # Architectural Design
 
 1) The project is structured using a layered, modular pipeline architecture with a clear separation of concerns:
