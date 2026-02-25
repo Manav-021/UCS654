@@ -103,10 +103,30 @@ topsis_pretrained/
 ## Final Ranking
 
 The closeness coefficients are visualized using a bar chart to illustrate the ranking of models.
-Closeness Chart
 
-Normalized Decision Matrix
+<p align="center">
+  <img src="output/closeness_bar_chart.png" width="80%">
+</p>
+
+## Normalized Decision Matrix
 
 A heatmap representation highlights how each model performs across normalized criteria.
 
-Normalized Heatmap
+<p align="center">
+  <img src="output/normalized_heatmap.png" width="80%">
+</p>
+
+## Results
+
+The computed TOPSIS scores and final rankings are available in:
+
+results/topsis_scores.csv
+
+The model with the highest closeness coefficient is considered the most balanced choice when accounting for both quality and computational efficiency.
+
+# Why Use TOPSIS?
+- Effectively manages conflicting evaluation criteria
+- Provides a transparent and quantitative ranking method
+- Balances accuracy and computational constraints
+- Suitable for real-world model selection scenarios
+
