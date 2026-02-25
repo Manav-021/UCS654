@@ -1,4 +1,4 @@
-YouTube Mashup Automation Pipeline
+# YouTube Mashup Automation Pipeline
 
 An automated media processing application developed using Python and Streamlit that generates custom audio mashups from YouTube search results.
 
