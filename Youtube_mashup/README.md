@@ -113,5 +113,4 @@ Display real-time progress indicators within the user interface
 
 # Author
 Manavjot Singh
-Copc
-3rd year
+Copc-3rd year
