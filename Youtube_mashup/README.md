@@ -4,7 +4,7 @@ An automated media processing application developed using Python and Streamlit t
 
 The system allows users to enter a topic, automatically retrieves relevant videos, extracts selected audio segments, merges them into a single mashup track, and produces a compressed output file — all through a simple and user-friendly web interface.
 
-Overview
+# Overview
 
 The pipeline executes the following steps:
 
@@ -19,7 +19,7 @@ The pipeline executes the following steps:
 The application is designed using a modular architecture, ensuring improved maintainability, scalability, and ease of future enhancements.
 
 
-Application Workflow
+# Application Workflow
 
 1) The user inputs a search keyword.
 2) The user selects the number of videos to be processed.
@@ -31,11 +31,11 @@ Application Workflow
 8) The user downloads the generated output file.
 
 
-Output 
+# Output 
 
-https://github.com/Manav-021/UCS654/new/main/Youtube_mashup#:~:text=youtube_email.png
+youtube_email.png
 
-Project Structure
+# Project Structure
 
 youtube_mashup_pipeline/
 │
@@ -64,8 +64,7 @@ youtube_mashup_pipeline/
 │   ├── output/
 │   └── zip/
 
-
-Architectural Design
+# Architectural Design
 
 1) The project is structured using a layered, modular pipeline architecture with a clear separation of concerns:
 2) downloader.py manages YouTube search and video downloads using yt-dlp
@@ -74,11 +73,12 @@ Architectural Design
 5) merger.py merges multiple audio clips into a single mashup track
 6) zipper.py handles compression of the final mashup file
 7) mailer.py enables optional email delivery of the output
+8) helpers.py manages directory creation and cleanup operations
 
 The Streamlit user interface is intentionally separated from the core processing modules, ensuring adherence to clean architecture principles, improved maintainability, and easier scalability.
 
 
-Technologies Used
+# Technologies Used
 
 Python 3.11
 Streamlit
@@ -88,7 +88,7 @@ Pydub
 FFmpeg
 Resend API (for optional email delivery)
 
-Key Features
+# Key Features
 
 User-defined selection of the number of videos to process.
 End-to-end automated processing workflow.
@@ -97,8 +97,7 @@ Automated directory creation and cleanup.
 Automatic ZIP archive generation.
 Optional email delivery integration.
 
-
-Potential Enhancements
+# Potential Enhancements
 
 Enable customizable clip duration selection
 Implement audio volume normalization
@@ -107,7 +106,7 @@ Support parallel video downloading to reduce processing time
 Add cloud storage integration for scalable file management
 Display real-time progress indicators within the user interface
 
-Author
+# Author
 Manavjot Singh
 Copc
 3rd year
