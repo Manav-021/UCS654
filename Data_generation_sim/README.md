@@ -40,6 +40,10 @@ The dataset captures the impact of system configuration on congestion and waitin
 
 The correlation heatmap below illustrates the relationships among system variables:
 
+<p align="center">
+  <img src="heatmap.png" width="80%">
+</p>
+
 # Key Insights
 - Higher arrival rates are associated with increased waiting times.
 - Increasing service rates reduces overall waiting time.
@@ -65,3 +69,29 @@ Models were assessed using:
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 - R² Score
+
+# Model Performance Comparison
+
+<p align="center">
+  <img src="model_comparison.png" width="80%">
+</p>
+
+Among all models, Gradient Boosting demonstrated the strongest predictive performance based on the highest R² score and lowest error metrics.
+
+# Best Performing Model
+
+## Gradient Boosting Regressor
+- Achieved the highest R² score
+- Produced the lowest prediction errors
+- Effectively captured non-linear relationships within the simulated system
+
+
+# Conclusion
+
+This project highlights the integration of:
+- Simulation-based modeling
+- Synthetic data generation
+- Machine learning model evaluation
+- Comparative performance analysis
+
+The results indicate that ensemble-based approaches outperform linear models, suggesting the presence of complex non-linear interactions within the simulated traffic system.
