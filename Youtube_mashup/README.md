@@ -38,6 +38,7 @@ The application is designed using a modular architecture, ensuring improved main
 
 ## Project Structure
 
+```
 youtube_mashup_pipeline/
 │
 ├── app.py
@@ -64,6 +65,9 @@ youtube_mashup_pipeline/
 │   ├── clips/
 │   ├── output/
 │   └── zip/
+│
+└── images/
+    └── youtube_email.png
 
 # Architectural Design
 
